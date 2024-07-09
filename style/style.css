@@ -1,0 +1,55 @@
+.container{
+    background-color: rgb(49, 252, 245);
+    width: 320px;
+    
+}
+.container i{
+    font-size: 50px;
+   
+}
+.row{
+    color: azure;
+}
+.row div{
+    
+    /* border-radius: 15px; */
+    color: rgb(18, 18, 18);
+    text-align: center;
+    background-color: azure;
+
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+.col-3{
+    height: 50px;
+    width:60px;
+    margin:10px;
+   
+}
+.row .col-4{
+    background-color: red;
+}
+.col-4{
+    border: 2px;
+    margin:10px;
+    width:60px;
+    text-align: center;
+    
+}
+.col-3 h1{
+    font-size: 20px;
+    text-align: center;
+}
+.col-8{
+    height:50px;
+    width:220px;
+    margin: 10px;
+    text-align: center;
+
+}
+.col-8 h1{
+    text-align: left;
+    font-size: 20px;
+}
